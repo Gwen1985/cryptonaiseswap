@@ -17,7 +17,7 @@ const App = () => {
           <img
             src={cryptonaiseLogo}
             alt="uniswap-logo"
-            className="w-25 h-25 object-contain"
+            className="w-16 h-16 object-contain"
           />
           <WalletButton />
         </header>
